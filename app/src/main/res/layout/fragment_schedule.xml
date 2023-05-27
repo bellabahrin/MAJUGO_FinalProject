@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcfcfc"
+    android:orientation="vertical"
+    tools:context="com.example.majugoscreen.ScheduleFragment">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/gradientbackground"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="70dp"
+                    android:text="Bus Schedule"
+                    android:textColor="#fff"
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="177dp"
+                android:layout_height="127dp"
+                android:layout_marginTop="240dp"
+                android:src="@drawable/johor_peta" />
+
+            <Button
+                android:id="@+id/buttonJ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="380dp"
+                android:background="#fcfcfc"
+                android:text="Johor"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginLeft="60dp" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="145dp"
+                android:layout_marginStart="202dp"
+                android:layout_marginTop="240dp"
+                android:src="@drawable/perak_peta"
+                android:layout_marginLeft="202dp" />
+
+            <Button
+                android:id="@+id/buttonP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="250dp"
+                android:layout_marginTop="380dp"
+                android:text="Perak"
+                android:textColor="@color/colorPrimary"
+                android:background="#fcfcfc"
+                android:layout_marginLeft="250dp" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="162dp"
+                android:layout_height="138dp"
+                android:layout_marginTop="440dp"
+                android:src="@drawable/pahang_peta" />
+
+            <Button
+                android:id="@+id/buttonPA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="580dp"
+                android:background="#fcfcfc"
+                android:text="Pahang"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginLeft="60dp" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="164dp"
+                android:layout_height="127dp"
+                android:layout_marginStart="202dp"
+                android:layout_marginTop="440dp"
+                android:src="@drawable/wilayah_persekutuan"
+                android:layout_marginLeft="202dp" />
+
+            <Button
+                android:id="@+id/buttonW"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="210dp"
+                android:layout_marginTop="580dp"
+                android:background="#fcfcfc"
+                android:text="Wilayah Persekutuan"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginLeft="210dp" />
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

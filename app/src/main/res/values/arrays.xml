@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="goodtypelist">
+        <item>@string/goodtype1</item>
+        <item>@string/goodtype2</item>
+    </string-array>
+
+    <string-array name="bustrippj">
+        <item>@string/firstbuspj</item>
+    </string-array>
+
+    <string-array name="bustripjk">
+        <item>@string/firstbusjk</item>
+        <item>@string/secondbusjk</item>
+        <item>@string/thirdbusjk</item>
+    </string-array>
+
+    <string-array name="bustripjp">
+        <item>@string/firstbusjp</item>
+        <item>@string/secondbusjp</item>
+        <item>@string/thirdbusjp</item>
+    </string-array>
+
+    <string-array name="bustrippk">
+        <item>@string/firstbuspk</item>
+    </string-array>
+
+    <string-array name="bustrippp">
+        <item>@string/firstbuspp</item>
+    </string-array>
+
+    <string-array name="bustrippl">
+        <item>@string/firstbuspl</item>
+        <item>@string/secondbuspl</item>
+    </string-array>
+
+    <string-array name="bustripps">
+        <item>@string/firstbusps</item>
+        <item>@string/secondbusps</item>
+    </string-array>
+
+    <string-array name="bustrippt">
+        <item>@string/firstbuspt</item>
+        <item>@string/secondbuspt</item>
+    </string-array>
+
+    <string-array name="bustripjs">
+        <item>@string/firstbusjs</item>
+        <item>@string/secondbusjs</item>
+    </string-array>
+
+    <string-array name="bustripjt">
+        <item>@string/firstbusjt</item>
+        <item>@string/secondbusjt</item>
+    </string-array>
+
+    <string-array name="bustripjl">
+        <item>@string/firstbusjl</item>
+        <item>@string/secondbusjl</item>
+    </string-array>
+
+    <string-array name="bustripptbs">
+        <item>@string/firstbusptbs</item>
+        <item>@string/secondbusptbs</item>
+    </string-array>
+
+    <string-array name="bustripjtbs">
+        <item>@string/firstbusjtbs</item>
+        <item>@string/secondbusjtbs</item>
+    </string-array>
+
+
+
+    <string-array name="bustrippeko">
+        <item>@string/firstbuspeko</item>
+        <item>@string/secondbuspeko</item>
+        <item>@string/thirdbuspeko</item>
+    </string-array>
+
+    <string-array name="bustripkupe">
+        <item>@string/firstbuskupe</item>
+        <item>@string/secondbuskupe</item>
+        <item>@string/thirdbuskupe</item>
+    </string-array>
+
+    <string-array name="bustripkuko">
+        <item>@string/firstbuskuko</item>
+        <item>@string/secondbuskuko</item>
+        <item>@string/thirdbuskuko</item>
+    </string-array>
+
+    <string-array name="bustripkujb">
+        <item>@string/firstbuskujb</item>
+        <item>@string/secondbuskujb</item>
+        <item>@string/thirdbuskujb</item>
+    </string-array>
+
+    <string-array name="bustripkupg">
+        <item>@string/firstbuskupg</item>
+    </string-array>
+
+    <string-array name="bustrippejb">
+        <item>@string/firstbuspejb</item>
+        <item>@string/secondbuspejb</item>
+        <item>@string/thirdbuspejb</item>
+    </string-array>
+
+    <string-array name="bustrippekt">
+        <item>@string/firstbuspekt</item>
+        <item>@string/secondbuspekt</item>
+        <item>@string/thirdbuspekt</item>
+    </string-array>
+
+    <string-array name="bustrippepg">
+        <item>@string/firstbuspepg</item>
+    </string-array>
+
+
+
+
+    <string-array name="bustriptbspg">
+        <item>@string/firstbustbspg</item>
+        <item>@string/secondbustbspg</item>
+    </string-array>
+
+    <string-array name="bustriptbsjb">
+        <item>@string/firstbustbsjb</item>
+        <item>@string/secondbustbsjb</item>
+    </string-array>
+
+    <string-array name="bustriptbss">
+        <item>@string/firstbustbss</item>
+        <item>@string/secondbustbss</item>
+    </string-array>
+
+    <string-array name="bustriptbst">
+        <item>@string/firstbustbst</item>
+        <item>@string/secondbustbst</item>
+    </string-array>
+
+    <string-array name="bustriptbsl">
+        <item>@string/firstbustbsl</item>
+        <item>@string/secondbustbsl</item>
+    </string-array>
+
+
+
+
+    <string-array name="bustripsjb">
+        <item>@string/firstbussjb</item>
+        <item>@string/secondbussjb</item>
+    </string-array>
+
+    <string-array name="bustripspg">
+        <item>@string/firstbusspg</item>
+        <item>@string/secondbusspg</item>
+    </string-array>
+
+    <string-array name="bustripljb">
+        <item>@string/firstbusljb</item>
+        <item>@string/secondbusljb</item>
+    </string-array>
+
+    <string-array name="bustriplpg">
+        <item>@string/firstbuslpg</item>
+        <item>@string/secondbuslpg</item>
+    </string-array>
+
+    <string-array name="bustriptjb">
+        <item>@string/firstbustjb</item>
+        <item>@string/secondbustjb</item>
+    </string-array>
+
+    <string-array name="bustriptpg">
+        <item>@string/firstbustpg</item>
+        <item>@string/secondbustpg</item>
+    </string-array>
+
+    <string-array name="bustriplt">
+        <item>@string/firstbuslt</item>
+        <item>@string/secondbuslt</item>
+    </string-array>
+
+    <string-array name="bustripst">
+        <item>@string/firstbusst</item>
+        <item>@string/secondbusst</item>
+    </string-array>
+
+    <string-array name="bustripstbs">
+        <item>@string/firstbusstbs</item>
+        <item>@string/secondbusstbs</item>
+    </string-array>
+
+    <string-array name="bustripltbs">
+        <item>@string/firstbusltbs</item>
+        <item>@string/secondbusltbs</item>
+    </string-array>
+
+    <string-array name="bustripttbs">
+        <item>@string/firstbusttbs</item>
+        <item>@string/secondbusttbs</item>
+    </string-array>
+</resources>

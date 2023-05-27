@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity='center'
+    tools:context=".TrackActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_track" />
+
+    <ImageView
+        android:layout_width="230dp"
+        android:layout_height="191dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="120dp"
+        android:src="@drawable/qr_code" />
+
+    <Button
+        android:id="@+id/btn_scan"
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/bluerectangle"
+        android:text="Scan QR and Code "
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:layout_marginTop="440dp"
+        android:id="@+id/result_text"
+        android:visibility="invisible" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
